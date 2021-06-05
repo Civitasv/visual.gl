@@ -66,6 +66,7 @@
           </v-list>
         </v-menu>
         <v-btn plain to="/home"> exit </v-btn>
+        <v-btn plain to="/about"> about </v-btn>
       </div>
     </v-app-bar>
     <v-main app style="height: 100%">
