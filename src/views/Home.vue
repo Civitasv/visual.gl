@@ -3,7 +3,7 @@
     <v-container fluid fill-height style="padding: 0">
       <v-layout align-center justify-center>
         <div class="home d-flex flex-column align-center justify-center">
-          <h1>POIKit</h1>
+          <h1>visual.gl</h1>
           <div class="pages">
             <router-link
               to="/dashboard"

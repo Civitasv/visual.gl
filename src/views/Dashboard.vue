@@ -28,9 +28,11 @@
       style="border-bottom: 1px solid rgba(0, 0, 0, 0.12) !important"
     >
       <v-app-bar-nav-icon to="/home">
-        <v-icon>mdi-map-marker</v-icon>
+        <v-avatar size="24">
+          <img src="@/assets/images/icon.png" alt="icon" />
+        </v-avatar>
       </v-app-bar-nav-icon>
-      <v-toolbar-title>POIKit</v-toolbar-title>
+      <v-toolbar-title class="pl-0">visual.gl</v-toolbar-title>
 
       <v-spacer></v-spacer>
       <div class="d-flex justify-center align-center">
